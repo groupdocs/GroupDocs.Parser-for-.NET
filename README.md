@@ -2,7 +2,7 @@
 
 This package contains [Examples](https://github.com/groupdocs-parser/GroupDocs.Parser-for-.NET/tree/master/Examples) and [Showcases](https://github.com/groupdocs-parser/GroupDocs.Parser-for-.NET/tree/master/Showcases) for [GroupDocs.Parser for .NET](https://products.groupdocs.com/parser/net) that will help you in understanding the API's working and writing your own applications.
 
-GroupDocs.Parser for .NET is a convenient text extractor API that permits users to extract raw or formatted text from different document formats. Beside, it is not only a text extractor API, user can extract metadata of the document as well. This document text extraction API allows user to read document content or metadata properties in console.
+GroupDocs.Parser for .NET is a convenient text extractor API that permits users to extract raw or formatted text from different document formats. Beside, it is not only a text extractor API, user can extract metadata of the document as well. The API also allows the user to deal with the containers such as OST and ZIP containers.
 
 <p align="center">
 
@@ -19,8 +19,10 @@ Directory | Description
 ## Resources
 
 + **Website:** [www.groupdocs.com](http://www.groupdocs.com)
-+ **Product Home:** [GroupDocs.Parser for .NET](https://www.groupdocs.com/products/parser/net)
-+ **Download:** [Download GroupDocs.Parser for .NET](https://downloads.groupdocs.com/parser/net)
++ **Product Home:** [GroupDocs.Parser for .NET](https://products.groupdocs.com/parser/net)
++ **Installation:** [GroupDocs.Parser for .NET NuGet Package](https://www.nuget.org/packages/GroupDocs.Parser/)
++ **API Reference:** [GroupDocs.Parser for .NET API Reference Guide](https://apireference.groupdocs.com/net/parser)
 + **Documentation:** [GroupDocs.Parser for .NET Documentation](https://docs.groupdocs.com/display/parsernet/Home)
-+ **Forum:** [GroupDocs.Parser for .NET Forum](https://forum.groupdocs.com/c/parser)
++ **Free Support:** [GroupDocs.Parser for .NET Free Support Forum](https://forum.groupdocs.com/c/parser)
++ **Paid Support:** [GroupDocs.Parser for .NET Paid Support Helpdesk](https://helpdesk.groupdocs.com/)
 + **Blog:** [GroupDocs.Parser for .NET Blog](https://blog.groupdocs.com/category/groupdocs-parser-product-family/)
